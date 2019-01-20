@@ -1,0 +1,2 @@
+interface 
+declare module window;
